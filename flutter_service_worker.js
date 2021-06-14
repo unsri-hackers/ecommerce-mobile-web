@@ -3,17 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "31f0b627eab606b58e43f001db2be2d9",
-"index.html": "a6f6feb82780def3e3aeac28321f0e5f",
-"/": "a6f6feb82780def3e3aeac28321f0e5f",
-"main.dart.js": "240934090734c7d97c54b13960c86cf8",
+  "version.json": "c1d9b08ef18285dabd8b85219495fa4d",
+"index.html": "bb5a29455642181c359e02fd166f2373",
+"/": "bb5a29455642181c359e02fd166f2373",
+"main.dart.js": "c58482ae1efc61b6486714317c6c7736",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "f9c08482fc7d6ccbac170b070fc0b136",
-"assets/AssetManifest.json": "175085cea3b2c2f4eac114a78dd9ccde",
-"assets/NOTICES": "54486fbf78ad4afd289dfa1d01fb2b82",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/AssetManifest.json": "9d0e4a4f656ee95e9cd945c72a7860cf",
+"assets/NOTICES": "9f5bf46d945780e0fb2ddcf1efbf0064",
+"assets/FontManifest.json": "87a183f9c71d1e410e8dde192c974019",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
@@ -22,9 +22,24 @@ const RESOURCES = {
 "assets/packages/easy_localization/i18n/en-US.json": "5bd908341879a431441c8208ae30e4fd",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/assets/images/login.png": "1637b53af9bc8cde1fe0ac466c428e18",
+"assets/assets/images/ic_launcher_ios.png": "05d94ec86378f414b834cb92c2752754",
 "assets/assets/images/empty_street.png": "bac1565993183daa29725caa66dca338",
+"assets/assets/images/order.png": "babbd8127da62d329799be1de3a173c7",
+"assets/assets/images/fluff.png": "698b8672e682f2ef7e8fc4142a422ace",
+"assets/assets/images/present.png": "7eb24f531379302214befc69fc53bc8d",
+"assets/assets/images/user_temp.png": "3873c73d82e733b18179e7a3291501db",
+"assets/assets/images/food.jpg": "0d39404a44709c5d58cd3a0355d55a3d",
+"assets/assets/images/google_logo.png": "4599359311d60856d7e2ffe30cda3b64",
+"assets/assets/images/ic_launcher.png": "ddd4dbcc54b513b7e191eb8885ba7e40",
+"assets/assets/images/success.png": "8f5ec6da23351ac66c6f3430db550c3f",
+"assets/assets/images/deuvox_logo.png": "58cd6acd3e5b8581b4441fcdd9e12ac4",
+"assets/assets/images/notification.png": "5c24b87dc64006510535d69b4b3abdc8",
+"assets/assets/images/hoodie.png": "df1cdea9eb9e465151ce78745e7c62ca",
 "assets/assets/langs/id-ID.json": "c8ef5d9cae8b7b114916502159747643",
-"assets/assets/langs/en-US.json": "8e9a0457d030179e95b7ef5c8d2358a1"
+"assets/assets/langs/en-US.json": "8e9a0457d030179e95b7ef5c8d2358a1",
+"assets/assets/fonts/louis_george_cafe/louis_george_cafe.ttf": "a617b62cd8089465865a37c676da00e2",
+"assets/assets/fonts/louis_george_cafe/louis_george_cafe_bold.ttf": "37931f1a4b21c268033168ae2c816b08"
 };
 
 // The application shell files that are downloaded before a service worker can
