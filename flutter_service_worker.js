@@ -3,15 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "c1d9b08ef18285dabd8b85219495fa4d",
-"index.html": "bb5a29455642181c359e02fd166f2373",
-"/": "bb5a29455642181c359e02fd166f2373",
-"main.dart.js": "c58482ae1efc61b6486714317c6c7736",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+  "version.json": "b1091014e5150b691e192d607d6bf93e",
+"index.html": "db4e2739189737238c4a2dc7eb602fbd",
+"/": "db4e2739189737238c4a2dc7eb602fbd",
+"main.dart.js": "47eaa9137659eaf40443c768686c2857",
+"favicon.png": "9cd1a99bc360d5d9b83778bd39589d32",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "f9c08482fc7d6ccbac170b070fc0b136",
-"assets/AssetManifest.json": "9d0e4a4f656ee95e9cd945c72a7860cf",
+"assets/AssetManifest.json": "07a3353a74cdb3afa8b1281282648fef",
 "assets/NOTICES": "9f5bf46d945780e0fb2ddcf1efbf0064",
 "assets/FontManifest.json": "87a183f9c71d1e410e8dde192c974019",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -36,8 +36,8 @@ const RESOURCES = {
 "assets/assets/images/deuvox_logo.png": "58cd6acd3e5b8581b4441fcdd9e12ac4",
 "assets/assets/images/notification.png": "5c24b87dc64006510535d69b4b3abdc8",
 "assets/assets/images/hoodie.png": "df1cdea9eb9e465151ce78745e7c62ca",
-"assets/assets/langs/id-ID.json": "c8ef5d9cae8b7b114916502159747643",
-"assets/assets/langs/en-US.json": "8e9a0457d030179e95b7ef5c8d2358a1",
+"assets/assets/langs/id-ID.json": "5ba705af5db21c018a7981803285dc36",
+"assets/assets/langs/en-US.json": "0449c72062411d92bd3ba53d721cbfa4",
 "assets/assets/fonts/louis_george_cafe/louis_george_cafe.ttf": "a617b62cd8089465865a37c676da00e2",
 "assets/assets/fonts/louis_george_cafe/louis_george_cafe_bold.ttf": "37931f1a4b21c268033168ae2c816b08"
 };

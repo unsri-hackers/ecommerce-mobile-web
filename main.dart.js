@@ -44221,7 +44221,7 @@ o="Client-Type"
 n=$.aKA()
 s=3
 return P.y(T.adV(),$async$gul)
-case 3:q=p.aC([o,n,"App-Ver","0.0.1","Device-Id",b],t.N,t.T)
+case 3:q=p.aC([o,n,"App-Ver","0.1.1","Device-Id",b],t.N,t.T)
 s=1
 break
 case 1:return P.B(q,r)}})
